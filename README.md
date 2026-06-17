@@ -56,7 +56,7 @@ list
 
 ### Evidência (Logs / Terminal)
 
-![Cenário 1 - execução](img1.png)
+![Cenário 1 - execução](imagens/img1.png)
 
 ---
 
@@ -77,11 +77,11 @@ remove P010 15
 
 ### Evidência (Erro no terminal)
 
-![Erro estoque insuficiente](img2.png)
+![Erro estoque insuficiente](imagens/img2.png)
 
 ### Evidência (Inventário após erro)
 
-![Inventário após falha](img3.png)
+![Inventário após falha](imagens/img3.png)
 
 ---
 
@@ -104,7 +104,7 @@ report item P010
 
 ### Evidência (Relatório geral)
 
-![Report item](img4.png)
+![Report item](imagens/img4.png)
 
 ---
 
@@ -120,7 +120,7 @@ report item P010
 
 Clique na imagem abaixo para acessar o ambiente de execução no GDB Online:
 
-[![Executar no GDB Online](img5.png)](https://www.onlinegdb.com/ExBrpouqR)
+[![Executar no GDB Online](imagens/img5.png)](https://www.onlinegdb.com/ExBrpouqR)
 
 ---
 
