@@ -1,0 +1,10 @@
+LogEntry {timestamp = 2026-06-17 00:15:00.7168194 UTC, acao = Add, detalhes = "id=P001;nome=Teclado Mec\226nico;qtd=10;cat=Perif\233ricos", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:15:09.0835333 UTC, acao = Add, detalhes = "id=P002;nome=Mouse Gamer;qtd=15;cat=Perif\233ricos", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:15:13.8430715 UTC, acao = Add, detalhes = "id=P003;nome=Monitor 24;qtd=5;cat=Monitores", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:15:56.8688705 UTC, acao = ListItems, detalhes = "listagem", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:16:06.9310517 UTC, acao = Add, detalhes = "id=P010;nome=Teclado;qtd=10;cat=Perif\233ricos", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:16:12.5550867 UTC, acao = Remove, detalhes = "", status = Falha "Estoque insuficiente para 'P010'. Atual: 10, solicitado: 15."}
+LogEntry {timestamp = 2026-06-17 00:16:18.8727998 UTC, acao = ListItems, detalhes = "listagem", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:16:35.079547 UTC, acao = Report, detalhes = "relatorio-erros", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:17:15.6495613 UTC, acao = Report, detalhes = "relatorio-geral", status = Sucesso}
+LogEntry {timestamp = 2026-06-17 00:17:24.6726694 UTC, acao = Report, detalhes = "relatorio-item:P010", status = Sucesso}
